@@ -1,0 +1,12 @@
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\bin\Debug\WinFormsIDs.exe.config
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\bin\Debug\WinFormsIDs.exe
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\bin\Debug\WinFormsIDs.pdb
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.csproj.AssemblyReference.cache
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.Properties.Resources.resources
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.csproj.GenerateResource.cache
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.csproj.CoreCompileInputs.cache
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.exe
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.pdb
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.Details.resources
+C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.Main.resources
