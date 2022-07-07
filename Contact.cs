@@ -12,13 +12,10 @@ namespace WinFormsIDs
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string LugarNac { get; set; }
-        public DateTime FechaNac { get; set; }
-        public string Nac { get; set; }
         public string Sexo { get; set; }
         public string Sangre { get; set; }
         public string EstCiv { get; set; }
         public string Ocup { get; set; }
-        public DateTime FechaExp { get; set; }
         public string Cedula { get; set; }
     }
 }

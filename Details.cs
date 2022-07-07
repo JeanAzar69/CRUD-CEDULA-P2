@@ -37,12 +37,23 @@ namespace WinFormsIDs
 
         private void btnSave_Click(object sender, EventArgs e)
         {
+            SaveContact();
+        }
+
+        private void SaveContact()
+        {
             Contact contact = new Contact();
             contact.FirstName = txtFirstName.Text;
             contact.LastName = txtLastName.Text;
             contact.Cedula = txtID.Text;
+            contact.LugarNac = txtLugarNac.Text;
+            contact.Sexo = txtSexo.Text;
+            contact.Sangre = txtSangre.Text;
+            contact.EstCiv = txtEstCiv.Text;
+            contact.Ocup = txtOcup.Text;
 
             _bll.SaveContact(contact);
         }
+
     }
 }

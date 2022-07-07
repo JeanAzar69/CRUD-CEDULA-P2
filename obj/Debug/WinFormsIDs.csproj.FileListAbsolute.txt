@@ -10,3 +10,15 @@ C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.exe
 C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.pdb
 C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.Details.resources
 C:\Users\Trejo\source\repos\WinFormsIDs\WinFormsIDs\obj\Debug\WinFormsIDs.Main.resources
+C:\Users\USUARIO\Desktop\clone\WFC\bin\Debug\WinFormsIDs.exe.config
+C:\Users\USUARIO\Desktop\clone\WFC\bin\Debug\WinFormsIDs.exe
+C:\Users\USUARIO\Desktop\clone\WFC\bin\Debug\WinFormsIDs.pdb
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.Details.resources
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.Main.resources
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.exe
+C:\Users\USUARIO\Desktop\clone\WFC\obj\Debug\WinFormsIDs.pdb

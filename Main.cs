@@ -12,14 +12,23 @@ namespace WinFormsIDs
 {
     public partial class Main : Form
     {
+        private BLL _bll;
+
         public Main()
         {
             InitializeComponent();
+            _bll = new BLL();
         }
         #region btn
         private void Form1_Load(object sender, EventArgs e)
         {
+            PopulateContacts();
+        }
 
+        private void PopulateContacts()
+        {
+            List<Contact> contacts = _bll.GetContacts();
+            gridData.DataSource = contacts;
         }
         #endregion
         #region metodos privados

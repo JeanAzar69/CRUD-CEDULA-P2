@@ -23,5 +23,9 @@ namespace WinFormsIDs
 
             return contact;
         }
+        public List<Contact> GetContacts()
+        {
+            return _data.GetContacts();
+        }
     }
 }
